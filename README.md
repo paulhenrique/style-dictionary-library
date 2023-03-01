@@ -21,7 +21,9 @@ O segundo é `basic-library-usage` que utiliza da mesma abordagem do anterior, c
 * Colocação de exemplo de uso do storybook para a *library*
 * Storybook para documentação dos tokens do DS
 
-<img src="https://media1.giphy.com/media/W9wHF6yVazlrW/giphy.gif?cid=ecf05e47bu1tg7gv686rf9zq5iwy1mgas63t1nj3rizyfsg8&rid=giphy.gif&ct=g" />
+
+
+<img width="200px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZkM2M5NGQ1Mjk4ZDEyNWExYzhkMDU3MTIwMWEwMGE4OTNhNWU3NyZjdD1n/W9wHF6yVazlrW/giphy.gif" />
 
 
 ___
