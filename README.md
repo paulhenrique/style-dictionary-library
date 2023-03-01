@@ -1,3 +1,4 @@
+<div align="center">
 <img width="200px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVjYzA5YWEzNWUwMzQ5NWI5NzEwNTc4MTQ0NzhkNTE1MTg1ODBmMCZjdD1z/CEHtFH3rJ6xdhBUKIT/giphy.gif" >
 
 
@@ -12,6 +13,7 @@ O primeiro é `basic-template-usage` que tem a configuração de uma aplicação
 
 O segundo é `basic-library-usage` que utiliza da mesma abordagem do anterior, contudo com a exportação de componente como library, possuindo uma pasta examples que contém uma aplicação `basic` que utiliza de referência de seus componentes para a aplicação final.
 
+</div>
 
 ----- 
 ## Pontos não resolvidos ainda:
